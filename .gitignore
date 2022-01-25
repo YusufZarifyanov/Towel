@@ -1,6 +1,8 @@
 server/node_modules
 server/dist
 
+client/node_modules
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
